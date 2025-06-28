@@ -10,7 +10,7 @@ Landing page responsiva para uma imobiliária, desenvolvida com foco em simplici
 
 ## 📸 Captura de tela
 
-![preview](.renameb) 
+![preview](renameb.png) 
 
 
 ## 📌 Funcionalidades
