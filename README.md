@@ -1,2 +1,27 @@
-# real-estate-landing
-Landing page responsiva para imobiliária, desenvolvida com HTML, CSS e JavaScript puro. Pode ser utilizada como modelo base para projetos imobiliários, sites institucionais ou páginas de apresentação.
+# Landing Page - Imobiliária
+
+Landing page responsiva para uma imobiliária, desenvolvida com foco em simplicidade e visual profissional. Pode ser usada como modelo para sites institucionais de empresas do setor imobiliário ou como base para projetos de portfólio.
+
+## 🚀 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (puro)
+
+## 📸 Captura de tela
+
+![preview](.renameb) 
+
+
+## 📌 Funcionalidades
+
+- Layout responsivo
+- Animações simples com JavaScript
+- Estilo rústico com tons escuros
+
+## 📝 Licença
+
+Este projeto pode ser usado como base educacional ou modelo, com personalização recomendada para uso comercial.
+
+---
+
